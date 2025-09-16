@@ -1,6 +1,5 @@
 # Road Traffic Case Study #
 
-This case study is done myself.
 
 *Case Study Objective :*
 
