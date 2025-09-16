@@ -1,6 +1,7 @@
 # Road Traffic Case Study #
 
 
+
 *Case Study Objective :*
 
 (i) To identify the Road accident major reason,
@@ -10,6 +11,7 @@
 (iii) To figure out accident correlation.
 
 (iv) To get reason behind the accident and what are the steps to sort.
+
 
 
 
