@@ -18,3 +18,5 @@
 Data Source : This data set is collected from Addis Ababa Sub city police departments for Masters research work.
 
 During Data Cleaning steps and processes their documentation attached separately in word document.
+
+All the analysis results and key notes are attached in the pdf to clarify. 
