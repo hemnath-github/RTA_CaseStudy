@@ -1,7 +1,7 @@
 # Road Traffic Case Study #
 
  *Case Study Objective :*
-
+ 
 (i) To identify the Road accident major reason,
 
 (ii) Causation of the accident occured reasons like climate,weather, and age wise people involved.
