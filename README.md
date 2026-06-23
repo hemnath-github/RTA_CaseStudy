@@ -2,9 +2,9 @@
 
  *Case Study Objective :*
  
-(i) To identify the Road accident major reason,
+(i) To identify the Road accident major reason ,
 
-(ii) Causation of the accident occured reasons like climate,weather, and age wise people involved .
+(ii) Causation of the accident occured reasons like climate,weather, and age wise people involved \.
 
 (iii) To figure out accident correlation.
 
